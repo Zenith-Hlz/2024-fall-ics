@@ -6,4 +6,3 @@ Try these commands:
 - `gcc -g -o hello hello.c`
 - `gcc -S -o hello.S hello.c`
 - `objdump -S ./hello`
-`   A
